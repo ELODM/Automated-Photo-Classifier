@@ -94,6 +94,4 @@ Le détail des chiffres est dans les fichiers JSON présents dans chaque dossier
 
 ---
 
-## Note sur la clé API
 
-La clé API Immich qui figurait en dur dans certains scripts a été remplacée par le placeholder `VOTRE_CLE_API_ICI`. Aucune clé valide n'est versionnée dans ce livrable.
