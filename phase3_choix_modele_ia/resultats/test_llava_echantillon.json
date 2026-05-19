@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-17T12:26:21.544224",
+  "modele": "llava:7b",
+  "nb_photos": 5,
+  "resultats": [
+    {
+      "fichier": "422.jpg",
+      "chemin": "/mnt/immich-data/photos_sbep/422.jpg",
+      "erreur": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "fichier": "btn1-1-6.png",
+      "chemin": "/mnt/immich-data/photos_sbep/btn1-1-6.png",
+      "erreur": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "fichier": "CBNC-18.png",
+      "chemin": "/mnt/immich-data/photos_sbep/CBNC-18.png",
+      "erreur": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "fichier": "SNB2.png",
+      "chemin": "/mnt/immich-data/photos_sbep/SNB2.png",
+      "erreur": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "fichier": "P1010921.JPG",
+      "chemin": "/mnt/immich-data/photos_sbep/P1010921.JPG",
+      "erreur": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    }
+  ]
+}

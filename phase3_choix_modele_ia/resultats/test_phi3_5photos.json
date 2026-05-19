@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-17T15:08:40.748928",
+  "modele": "llava-phi3:3.8b",
+  "resultats": [
+    {
+      "fichier": "422.jpg",
+      "duree_sec": 144.378234,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Signal de campsing Le Poto",
+        "confidence": 0.83
+      }
+    },
+    {
+      "fichier": "btn1-1-6.png",
+      "duree_sec": 131.202952,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Un paysage de montagne avec une vue aérienne.",
+        "confidence": 0.85
+      }
+    },
+    {
+      "fichier": "CBNC-18.png",
+      "duree_sec": 129.300443,
+      "classification": {
+        "category": "document",
+        "description_fr": "Un document est visible sur la page.",
+        "confidence": 0.8
+      }
+    },
+    {
+      "fichier": "SNB2.png",
+      "duree_sec": 129.055902,
+      "classification": {
+        "category": "document",
+        "description_fr": "Un plan de projet",
+        "confidence": 0.91
+      }
+    },
+    {
+      "fichier": "P1010921.JPG",
+      "duree_sec": 134.940711,
+      "classification": {
+        "category": "littoral",
+        "description_fr": "Côte et plage avec des rochers.",
+        "confidence": 0.91
+      }
+    },
+    {
+      "fichier": "Ferme_parata_2019_1.jpg",
+      "duree_sec": 132.485249,
+      "classification": {
+        "category": "littoral",
+        "description_fr": "Côte et plage avec des objets sur la plage.",
+        "confidence": 0.83
+      }
+    },
+    {
+      "fichier": "6b. Covoiturage + OGS.jpeg",
+      "duree_sec": 131.087143,
+      "classification": {
+        "category": "document",
+        "description_fr": "Un document est visible sur la carte.",
+        "confidence": 0.85
+      }
+    },
+    {
+      "fichier": "P1010925.JPG",
+      "duree_sec": 141.714035,
+      "classification": {
+        "category": "littoral",
+        "description_fr": "Les côtes sont rocheuses et couvertes de végétation.",
+        "confidence": 0.82
+      }
+    },
+    {
+      "fichier": "119.jpg",
+      "duree_sec": 136.45237,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Signalisation routière et parking de la RD 263, en bordure d'un terrain vaseux.",
+        "confidence": 0.85
+      }
+    },
+    {
+      "fichier": "20250515_155917.jpg",
+      "duree_sec": 132.417964,
+      "classification": {
+        "category": "batiment",
+        "description_fr": "Les matériaux de construction sont dans la pièce.",
+        "confidence": 0.83
+      }
+    },
+    {
+      "fichier": "concluMnuOver.png",
+      "duree_sec": 129.301699,
+      "classification": {
+        "category": "document",
+        "description_fr": "Un document est visible dans l'image.",
+        "confidence": 0.8
+      }
+    },
+    {
+      "fichier": "940.jpg",
+      "duree_sec": 134.859903,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Signalisation routière sur un bord de route en Corsica.",
+        "confidence": 0.8
+      }
+    },
+    {
+      "fichier": "1463.jpg",
+      "duree_sec": 133.199318,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Signalisation routière sur un terrain herbeux.",
+        "confidence": 0.8
+      }
+    },
+    {
+      "fichier": "P1030211.JPG",
+      "duree_sec": 133.407854,
+      "classification": {
+        "category": "milieu_aquatique",
+        "description_fr": "Eau claire et tranquille, bordure de végétation.",
+        "confidence": 0.83
+      }
+    },
+    {
+      "fichier": "présentation Parata - 39.jpeg",
+      "duree_sec": 131.247985,
+      "classification": {
+        "category": "paysage",
+        "description_fr": "Un paysage de montagne avec une rivière.",
+        "confidence": 0.83
+      }
+    }
+  ]
+}

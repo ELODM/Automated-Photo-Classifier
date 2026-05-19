@@ -1,0 +1,2922 @@
+{
+  "date": "2026-04-16T05:25:39.104961",
+  "modele": "MobileNetV3Large",
+  "total_classifiees": 500,
+  "erreurs": 0,
+  "statistiques": {
+    "document": 101,
+    "batiment": 34,
+    "montagne": 88,
+    "faune": 31,
+    "flore": 6,
+    "portrait": 4,
+    "infrastructure": 65,
+    "littoral": 57,
+    "paysage": 80,
+    "pollution": 5,
+    "energie": 6,
+    "milieu_aquatique": 23
+  },
+  "resultats": [
+    {
+      "fichier": "septembre 2020 ilr (46_champs_non_declares).PNG",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.811,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.811
+        ],
+        [
+          "menu",
+          0.0511
+        ],
+        [
+          "monitor",
+          0.0072
+        ],
+        [
+          "envelope",
+          0.0036
+        ],
+        [
+          "binder",
+          0.0035
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "1403295930 - BOUYGUES TELECOM3.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.7373,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.7373
+        ],
+        [
+          "notebook",
+          0.0309
+        ],
+        [
+          "monitor",
+          0.0152
+        ],
+        [
+          "laptop",
+          0.012
+        ],
+        [
+          "screen",
+          0.0085
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCN0747.jpg",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.0943,
+      "top5_imagenet": [
+        [
+          "tile_roof",
+          0.4965
+        ],
+        [
+          "dome",
+          0.1227
+        ],
+        [
+          "church",
+          0.0943
+        ],
+        [
+          "monastery",
+          0.0389
+        ],
+        [
+          "bell_cote",
+          0.0381
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "DSCN2918.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.3027,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.3027
+        ],
+        [
+          "volcano",
+          0.2391
+        ],
+        [
+          "mountain_bike",
+          0.0358
+        ],
+        [
+          "seashore",
+          0.0263
+        ],
+        [
+          "sandbar",
+          0.0176
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "P1040936.JPG",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.069,
+      "top5_imagenet": [
+        [
+          "agama",
+          0.1017
+        ],
+        [
+          "dung_beetle",
+          0.069
+        ],
+        [
+          "ringneck_snake",
+          0.0458
+        ],
+        [
+          "thunder_snake",
+          0.0349
+        ],
+        [
+          "tiger_beetle",
+          0.032
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "METADONNEES.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.0846,
+      "top5_imagenet": [
+        [
+          "scoreboard",
+          0.2929
+        ],
+        [
+          "menu",
+          0.0846
+        ],
+        [
+          "cinema",
+          0.0316
+        ],
+        [
+          "street_sign",
+          0.0268
+        ],
+        [
+          "book_jacket",
+          0.02
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCF0655.JPG",
+      "categorie": "flore",
+      "categorie_nom": "Flore",
+      "confiance": 0.2408,
+      "top5_imagenet": [
+        [
+          "street_sign",
+          0.2408
+        ],
+        [
+          "cliff",
+          0.1386
+        ],
+        [
+          "alp",
+          0.0961
+        ],
+        [
+          "brass",
+          0.076
+        ],
+        [
+          "valley",
+          0.0719
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "tracé photo 3.JPG",
+      "categorie": "portrait",
+      "categorie_nom": "Portrait / Evenement",
+      "confiance": 0.0214,
+      "top5_imagenet": [
+        [
+          "brass",
+          0.7216
+        ],
+        [
+          "doormat",
+          0.0325
+        ],
+        [
+          "manhole_cover",
+          0.0214
+        ],
+        [
+          "sundial",
+          0.0117
+        ],
+        [
+          "maze",
+          0.0072
+        ]
+      ],
+      "service": "Communication"
+    },
+    {
+      "fichier": "blocs tout venant front inf.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.5337,
+      "top5_imagenet": [
+        [
+          "stone_wall",
+          0.5337
+        ],
+        [
+          "valley",
+          0.0498
+        ],
+        [
+          "megalith",
+          0.041
+        ],
+        [
+          "alp",
+          0.0315
+        ],
+        [
+          "cliff",
+          0.0246
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "B15-0915.jpg",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.2924,
+      "top5_imagenet": [
+        [
+          "vault",
+          0.6326
+        ],
+        [
+          "monastery",
+          0.2924
+        ],
+        [
+          "altar",
+          0.0086
+        ],
+        [
+          "church",
+          0.0066
+        ],
+        [
+          "brass",
+          0.0057
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "CB20-4.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.0291,
+      "top5_imagenet": [
+        [
+          "printer",
+          0.3368
+        ],
+        [
+          "space_heater",
+          0.1694
+        ],
+        [
+          "crate",
+          0.0721
+        ],
+        [
+          "envelope",
+          0.0291
+        ],
+        [
+          "tape_player",
+          0.0281
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCF2264.JPG",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.0567,
+      "top5_imagenet": [
+        [
+          "bell_cote",
+          0.1792
+        ],
+        [
+          "bannister",
+          0.0832
+        ],
+        [
+          "prison",
+          0.0567
+        ],
+        [
+          "guillotine",
+          0.047
+        ],
+        [
+          "vault",
+          0.0466
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "IMG_20240213_143428.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.3243,
+      "top5_imagenet": [
+        [
+          "freight_car",
+          0.3243
+        ],
+        [
+          "trailer_truck",
+          0.1184
+        ],
+        [
+          "traffic_light",
+          0.0743
+        ],
+        [
+          "streetcar",
+          0.0663
+        ],
+        [
+          "snowplow",
+          0.0333
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG20221006104521.jpg",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.2055,
+      "top5_imagenet": [
+        [
+          "cliff",
+          0.2055
+        ],
+        [
+          "promontory",
+          0.0969
+        ],
+        [
+          "breakwater",
+          0.0525
+        ],
+        [
+          "seashore",
+          0.0494
+        ],
+        [
+          "lakeside",
+          0.0483
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "WhatsApp Image 2025-09-23 at 15.56.06 (23).jpeg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "refrigerator",
+          0.0879
+        ],
+        [
+          "barbell",
+          0.0876
+        ],
+        [
+          "file",
+          0.0789
+        ],
+        [
+          "desk",
+          0.0761
+        ],
+        [
+          "wall_clock",
+          0.0739
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "P1010851.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.4404,
+      "top5_imagenet": [
+        [
+          "sandbar",
+          0.4404
+        ],
+        [
+          "seashore",
+          0.1143
+        ],
+        [
+          "lakeside",
+          0.0645
+        ],
+        [
+          "wreck",
+          0.0296
+        ],
+        [
+          "dam",
+          0.0201
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "images PLAN INCLINE.jpg",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.9084,
+      "top5_imagenet": [
+        [
+          "seashore",
+          0.9084
+        ],
+        [
+          "lakeside",
+          0.0245
+        ],
+        [
+          "aircraft_carrier",
+          0.0061
+        ],
+        [
+          "pier",
+          0.0055
+        ],
+        [
+          "breakwater",
+          0.0051
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "Log_Soc_2023.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.8809,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.8809
+        ],
+        [
+          "book_jacket",
+          0.0171
+        ],
+        [
+          "menu",
+          0.0104
+        ],
+        [
+          "comic_book",
+          0.0036
+        ],
+        [
+          "envelope",
+          0.0013
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "332.Derrière HLM Arena.JPG",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0072,
+      "top5_imagenet": [
+        [
+          "ashcan",
+          0.9351
+        ],
+        [
+          "garbage_truck",
+          0.0072
+        ],
+        [
+          "photocopier",
+          0.0029
+        ],
+        [
+          "crate",
+          0.0028
+        ],
+        [
+          "apiary",
+          0.0027
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "WhatsApp Image 2025-09-23 at 15.56.06 (16).jpeg",
+      "categorie": "pollution",
+      "categorie_nom": "Pollution / Degradation",
+      "confiance": 0.0543,
+      "top5_imagenet": [
+        [
+          "Band_Aid",
+          0.534
+        ],
+        [
+          "paper_towel",
+          0.1525
+        ],
+        [
+          "toilet_tissue",
+          0.0543
+        ],
+        [
+          "packet",
+          0.0113
+        ],
+        [
+          "mousetrap",
+          0.0066
+        ]
+      ],
+      "service": "Risques"
+    },
+    {
+      "fichier": "OPERATION.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.1857,
+      "top5_imagenet": [
+        [
+          "screen",
+          0.1857
+        ],
+        [
+          "can_opener",
+          0.0488
+        ],
+        [
+          "cassette",
+          0.0431
+        ],
+        [
+          "loupe",
+          0.0294
+        ],
+        [
+          "desktop_computer",
+          0.0252
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCN0185.JPG",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0475,
+      "top5_imagenet": [
+        [
+          "wreck",
+          0.1462
+        ],
+        [
+          "snowplow",
+          0.067
+        ],
+        [
+          "tow_truck",
+          0.0475
+        ],
+        [
+          "sandbar",
+          0.045
+        ],
+        [
+          "freight_car",
+          0.0291
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG_20141029_112059.jpg",
+      "categorie": "flore",
+      "categorie_nom": "Flore",
+      "confiance": 0.2808,
+      "top5_imagenet": [
+        [
+          "hay",
+          0.2808
+        ],
+        [
+          "worm_fence",
+          0.1365
+        ],
+        [
+          "barn",
+          0.086
+        ],
+        [
+          "radio_telescope",
+          0.0536
+        ],
+        [
+          "alp",
+          0.04
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "B16-1166.jpg",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.0972,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.2057
+        ],
+        [
+          "sandbar",
+          0.0972
+        ],
+        [
+          "horse_cart",
+          0.0856
+        ],
+        [
+          "Arabian_camel",
+          0.0684
+        ],
+        [
+          "boathouse",
+          0.0507
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "DSCN0278.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.2008,
+      "top5_imagenet": [
+        [
+          "seashore",
+          0.2008
+        ],
+        [
+          "sandbar",
+          0.1839
+        ],
+        [
+          "promontory",
+          0.1366
+        ],
+        [
+          "geyser",
+          0.0546
+        ],
+        [
+          "oxcart",
+          0.0211
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "TERMINAL-54.png",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "modem",
+          0.1908
+        ],
+        [
+          "hair_spray",
+          0.0457
+        ],
+        [
+          "loudspeaker",
+          0.0399
+        ],
+        [
+          "cleaver",
+          0.0286
+        ],
+        [
+          "harmonica",
+          0.0266
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20160921_114907.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "Dutch_oven",
+          0.4474
+        ],
+        [
+          "coffeepot",
+          0.0593
+        ],
+        [
+          "caldron",
+          0.0416
+        ],
+        [
+          "stove",
+          0.036
+        ],
+        [
+          "rain_barrel",
+          0.0285
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "20170818_142505.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "punching_bag",
+          0.6691
+        ],
+        [
+          "barrel",
+          0.0605
+        ],
+        [
+          "forklift",
+          0.0335
+        ],
+        [
+          "rain_barrel",
+          0.0263
+        ],
+        [
+          "lumbermill",
+          0.0118
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "DSCN2306.JPG",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "schooner",
+          0.1648
+        ],
+        [
+          "altar",
+          0.1187
+        ],
+        [
+          "stupa",
+          0.0645
+        ],
+        [
+          "pirate",
+          0.0556
+        ],
+        [
+          "vestment",
+          0.0556
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20200303_115406.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0578,
+      "top5_imagenet": [
+        [
+          "megalith",
+          0.0579
+        ],
+        [
+          "park_bench",
+          0.0578
+        ],
+        [
+          "thatch",
+          0.0559
+        ],
+        [
+          "greenhouse",
+          0.0477
+        ],
+        [
+          "viaduct",
+          0.023
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "casa-5.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.2075,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.2075
+        ],
+        [
+          "sandbar",
+          0.146
+        ],
+        [
+          "seashore",
+          0.1124
+        ],
+        [
+          "dam",
+          0.1105
+        ],
+        [
+          "cliff",
+          0.0835
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG20250325101020.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.1262,
+      "top5_imagenet": [
+        [
+          "mountain_bike",
+          0.1262
+        ],
+        [
+          "megalith",
+          0.1133
+        ],
+        [
+          "stone_wall",
+          0.0845
+        ],
+        [
+          "mountain_tent",
+          0.0361
+        ],
+        [
+          "barrow",
+          0.0233
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "Capture d’écran (50).png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.9377,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.9377
+        ],
+        [
+          "screen",
+          0.0048
+        ],
+        [
+          "monitor",
+          0.0048
+        ],
+        [
+          "envelope",
+          0.0021
+        ],
+        [
+          "desktop_computer",
+          0.0015
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCF1941.JPG",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.912,
+      "top5_imagenet": [
+        [
+          "crane",
+          0.912
+        ],
+        [
+          "missile",
+          0.0238
+        ],
+        [
+          "tow_truck",
+          0.0061
+        ],
+        [
+          "projectile",
+          0.0058
+        ],
+        [
+          "cannon",
+          0.0025
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "FrangoneG4.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.3115,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.3115
+        ],
+        [
+          "cliff",
+          0.2314
+        ],
+        [
+          "cliff_dwelling",
+          0.058
+        ],
+        [
+          "promontory",
+          0.0441
+        ],
+        [
+          "alp",
+          0.0332
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "B24-1779.jpg",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.2819,
+      "top5_imagenet": [
+        [
+          "monastery",
+          0.2819
+        ],
+        [
+          "church",
+          0.0937
+        ],
+        [
+          "suspension_bridge",
+          0.0504
+        ],
+        [
+          "thatch",
+          0.0478
+        ],
+        [
+          "prison",
+          0.0398
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "col de Vergio 12.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.6293,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.6293
+        ],
+        [
+          "alp",
+          0.0443
+        ],
+        [
+          "cliff",
+          0.0343
+        ],
+        [
+          "cliff_dwelling",
+          0.0317
+        ],
+        [
+          "mountain_bike",
+          0.0259
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "01_zonage_natura2000_02.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.4746,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.4746
+        ],
+        [
+          "envelope",
+          0.2556
+        ],
+        [
+          "comic_book",
+          0.0406
+        ],
+        [
+          "mouse",
+          0.0084
+        ],
+        [
+          "binder",
+          0.0052
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSC06416.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.0932,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.0932
+        ],
+        [
+          "alp",
+          0.0665
+        ],
+        [
+          "suspension_bridge",
+          0.0634
+        ],
+        [
+          "cliff",
+          0.049
+        ],
+        [
+          "promontory",
+          0.0342
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "_SCO9491.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.2481,
+      "top5_imagenet": [
+        [
+          "alp",
+          0.2481
+        ],
+        [
+          "volcano",
+          0.2349
+        ],
+        [
+          "mountain_tent",
+          0.0473
+        ],
+        [
+          "cliff",
+          0.0301
+        ],
+        [
+          "ski",
+          0.0273
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "04_potentiel_houle_13.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.79,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.79
+        ],
+        [
+          "envelope",
+          0.086
+        ],
+        [
+          "oscilloscope",
+          0.031
+        ],
+        [
+          "crossword_puzzle",
+          0.0036
+        ],
+        [
+          "remote_control",
+          0.0031
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "B15-0805.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.1404,
+      "top5_imagenet": [
+        [
+          "volcano",
+          0.1404
+        ],
+        [
+          "alp",
+          0.0828
+        ],
+        [
+          "barn",
+          0.0788
+        ],
+        [
+          "yurt",
+          0.0469
+        ],
+        [
+          "valley",
+          0.0416
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "DSCN0264.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.16,
+      "top5_imagenet": [
+        [
+          "geyser",
+          0.3336
+        ],
+        [
+          "cliff",
+          0.16
+        ],
+        [
+          "volcano",
+          0.0915
+        ],
+        [
+          "sandbar",
+          0.0785
+        ],
+        [
+          "promontory",
+          0.0479
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "20191023_102223 nouvelle station pompage.jpg",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.0282,
+      "top5_imagenet": [
+        [
+          "missile",
+          0.5092
+        ],
+        [
+          "space_shuttle",
+          0.1458
+        ],
+        [
+          "projectile",
+          0.0849
+        ],
+        [
+          "submarine",
+          0.0352
+        ],
+        [
+          "water_tower",
+          0.0282
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "B16-1152.jpg",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.0461,
+      "top5_imagenet": [
+        [
+          "West_Highland_white_terrier",
+          0.4197
+        ],
+        [
+          "Great_Pyrenees",
+          0.1158
+        ],
+        [
+          "kuvasz",
+          0.0471
+        ],
+        [
+          "Irish_wolfhound",
+          0.0461
+        ],
+        [
+          "dogsled",
+          0.034
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "Copie de DSCN0618.jpg",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.502,
+      "top5_imagenet": [
+        [
+          "monastery",
+          0.502
+        ],
+        [
+          "patio",
+          0.1367
+        ],
+        [
+          "alp",
+          0.0645
+        ],
+        [
+          "mobile_home",
+          0.0291
+        ],
+        [
+          "lakeside",
+          0.027
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "_SCO4614.JPG",
+      "categorie": "energie",
+      "categorie_nom": "Energie",
+      "confiance": 0.9179,
+      "top5_imagenet": [
+        [
+          "solar_dish",
+          0.9179
+        ],
+        [
+          "greenhouse",
+          0.0039
+        ],
+        [
+          "tile_roof",
+          0.0021
+        ],
+        [
+          "planetarium",
+          0.0009
+        ],
+        [
+          "patio",
+          0.0007
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "F1000046.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.8111,
+      "top5_imagenet": [
+        [
+          "cliff_dwelling",
+          0.8111
+        ],
+        [
+          "cliff",
+          0.0398
+        ],
+        [
+          "megalith",
+          0.0102
+        ],
+        [
+          "valley",
+          0.005
+        ],
+        [
+          "promontory",
+          0.0026
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "20240723_102614.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "amphibian",
+          0.1879
+        ],
+        [
+          "tank",
+          0.1536
+        ],
+        [
+          "wreck",
+          0.1456
+        ],
+        [
+          "half_track",
+          0.0439
+        ],
+        [
+          "refrigerator",
+          0.0355
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "HPIM3596.JPG",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "ashcan",
+          0.0656
+        ],
+        [
+          "safe",
+          0.0593
+        ],
+        [
+          "paintbrush",
+          0.048
+        ],
+        [
+          "brass",
+          0.0449
+        ],
+        [
+          "breakwater",
+          0.0417
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "BIS_ORIENTATION_BV_ZONE43.JPEG",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.787,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.787
+        ],
+        [
+          "envelope",
+          0.0743
+        ],
+        [
+          "rule",
+          0.0051
+        ],
+        [
+          "analog_clock",
+          0.0014
+        ],
+        [
+          "jean",
+          0.0012
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "20181017_110937.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0107,
+      "top5_imagenet": [
+        [
+          "plastic_bag",
+          0.9484
+        ],
+        [
+          "garbage_truck",
+          0.0107
+        ],
+        [
+          "ashcan",
+          0.0071
+        ],
+        [
+          "West_Highland_white_terrier",
+          0.0041
+        ],
+        [
+          "teddy",
+          0.0013
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG_20160113_101822.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0813,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.4159
+        ],
+        [
+          "tow_truck",
+          0.0813
+        ],
+        [
+          "pickup",
+          0.0591
+        ],
+        [
+          "sports_car",
+          0.0442
+        ],
+        [
+          "minivan",
+          0.0343
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG_0390.JPG",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.5421
+        ],
+        [
+          "apiary",
+          0.1914
+        ],
+        [
+          "recreational_vehicle",
+          0.0368
+        ],
+        [
+          "moving_van",
+          0.0176
+        ],
+        [
+          "pickup",
+          0.0141
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "Photo de groupe.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.0744,
+      "top5_imagenet": [
+        [
+          "unicycle",
+          0.1477
+        ],
+        [
+          "jinrikisha",
+          0.106
+        ],
+        [
+          "bicycle-built-for-two",
+          0.1044
+        ],
+        [
+          "mountain_bike",
+          0.0744
+        ],
+        [
+          "moped",
+          0.0315
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20190716_112903.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "tripod",
+          0.1149
+        ],
+        [
+          "assault_rifle",
+          0.0971
+        ],
+        [
+          "rifle",
+          0.0685
+        ],
+        [
+          "cannon",
+          0.0493
+        ],
+        [
+          "cuirass",
+          0.0292
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "CE_atelier2.JPG",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.0851,
+      "top5_imagenet": [
+        [
+          "swab",
+          0.1256
+        ],
+        [
+          "crane",
+          0.0851
+        ],
+        [
+          "vacuum",
+          0.0451
+        ],
+        [
+          "altar",
+          0.0353
+        ],
+        [
+          "forklift",
+          0.0343
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG20250429111750.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.113,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.294
+        ],
+        [
+          "mountain_tent",
+          0.113
+        ],
+        [
+          "recreational_vehicle",
+          0.0996
+        ],
+        [
+          "tow_truck",
+          0.0743
+        ],
+        [
+          "minibus",
+          0.0666
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "COR_Prunelli_EntréeG3.jpg",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.7831,
+      "top5_imagenet": [
+        [
+          "cliff_dwelling",
+          0.7831
+        ],
+        [
+          "cliff",
+          0.0193
+        ],
+        [
+          "megalith",
+          0.008
+        ],
+        [
+          "valley",
+          0.007
+        ],
+        [
+          "Newfoundland",
+          0.0069
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "20230126_114002.jpg",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.2261,
+      "top5_imagenet": [
+        [
+          "restaurant",
+          0.2261
+        ],
+        [
+          "shoe_shop",
+          0.0949
+        ],
+        [
+          "barbershop",
+          0.0594
+        ],
+        [
+          "Crock_Pot",
+          0.0332
+        ],
+        [
+          "bakery",
+          0.0296
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20141116_120800.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.0131,
+      "top5_imagenet": [
+        [
+          "sundial",
+          0.5274
+        ],
+        [
+          "brass",
+          0.2183
+        ],
+        [
+          "maze",
+          0.0219
+        ],
+        [
+          "laptop",
+          0.0139
+        ],
+        [
+          "screen",
+          0.0131
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "linksglobe.png",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "digital_clock",
+          0.1326
+        ],
+        [
+          "spatula",
+          0.0694
+        ],
+        [
+          "pick",
+          0.0692
+        ],
+        [
+          "jersey",
+          0.0575
+        ],
+        [
+          "analog_clock",
+          0.0392
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "header.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.299,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.299
+        ],
+        [
+          "envelope",
+          0.1468
+        ],
+        [
+          "rule",
+          0.0578
+        ],
+        [
+          "slide_rule",
+          0.0431
+        ],
+        [
+          "comic_book",
+          0.0135
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCF3019.JPG",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0954,
+      "top5_imagenet": [
+        [
+          "ambulance",
+          0.1185
+        ],
+        [
+          "tow_truck",
+          0.0954
+        ],
+        [
+          "moving_van",
+          0.0807
+        ],
+        [
+          "prison",
+          0.0564
+        ],
+        [
+          "garbage_truck",
+          0.0486
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "cow.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0431,
+      "top5_imagenet": [
+        [
+          "ox",
+          0.9071
+        ],
+        [
+          "oxcart",
+          0.0431
+        ],
+        [
+          "sorrel",
+          0.0091
+        ],
+        [
+          "plow",
+          0.0058
+        ],
+        [
+          "Ibizan_hound",
+          0.0015
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "DJI_0044.JPG",
+      "categorie": "milieu_aquatique",
+      "categorie_nom": "Milieu aquatique",
+      "confiance": 0.6794,
+      "top5_imagenet": [
+        [
+          "dam",
+          0.6794
+        ],
+        [
+          "promontory",
+          0.0145
+        ],
+        [
+          "lakeside",
+          0.0106
+        ],
+        [
+          "wreck",
+          0.0103
+        ],
+        [
+          "valley",
+          0.0087
+        ]
+      ],
+      "service": "Delegation de bassin"
+    },
+    {
+      "fichier": "Station_Calvi-PPRI.JPG",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.0772,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.0772
+        ],
+        [
+          "stethoscope",
+          0.0588
+        ],
+        [
+          "water_bottle",
+          0.0544
+        ],
+        [
+          "mailbag",
+          0.049
+        ],
+        [
+          "jersey",
+          0.046
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "03-Phasage modifiée_V2.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.826,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.826
+        ],
+        [
+          "envelope",
+          0.026
+        ],
+        [
+          "Band_Aid",
+          0.0128
+        ],
+        [
+          "scale",
+          0.0064
+        ],
+        [
+          "can_opener",
+          0.0031
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DELETEDBADGE-12.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.1172,
+      "top5_imagenet": [
+        [
+          "cassette_player",
+          0.2317
+        ],
+        [
+          "hand-held_computer",
+          0.1772
+        ],
+        [
+          "screen",
+          0.1172
+        ],
+        [
+          "desktop_computer",
+          0.0455
+        ],
+        [
+          "cash_machine",
+          0.0289
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "PK134+500.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.7937,
+      "top5_imagenet": [
+        [
+          "suspension_bridge",
+          0.7937
+        ],
+        [
+          "cliff",
+          0.0819
+        ],
+        [
+          "valley",
+          0.0193
+        ],
+        [
+          "cliff_dwelling",
+          0.0096
+        ],
+        [
+          "steel_arch_bridge",
+          0.0083
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "327.Lotissement Les Hespérides - 1.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "apiary",
+          0.5447
+        ],
+        [
+          "crate",
+          0.1647
+        ],
+        [
+          "mobile_home",
+          0.046
+        ],
+        [
+          "ashcan",
+          0.0225
+        ],
+        [
+          "forklift",
+          0.0213
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "B15-0675.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "quilt",
+          0.1927
+        ],
+        [
+          "military_uniform",
+          0.0861
+        ],
+        [
+          "mosquito_net",
+          0.0563
+        ],
+        [
+          "wing",
+          0.0359
+        ],
+        [
+          "bulletproof_vest",
+          0.0356
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "kitbm-blinklist.png",
+      "categorie": "portrait",
+      "categorie_nom": "Portrait / Evenement",
+      "confiance": 0.0477,
+      "top5_imagenet": [
+        [
+          "loupe",
+          0.2249
+        ],
+        [
+          "pick",
+          0.1494
+        ],
+        [
+          "face_powder",
+          0.0477
+        ],
+        [
+          "whistle",
+          0.0282
+        ],
+        [
+          "jersey",
+          0.0277
+        ]
+      ],
+      "service": "Communication"
+    },
+    {
+      "fichier": "20180719_095517.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0018,
+      "top5_imagenet": [
+        [
+          "lumbermill",
+          0.9637
+        ],
+        [
+          "tow_truck",
+          0.0018
+        ],
+        [
+          "bobsled",
+          0.0018
+        ],
+        [
+          "guillotine",
+          0.0018
+        ],
+        [
+          "chain_saw",
+          0.0016
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMGP1051.JPG",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.465,
+      "top5_imagenet": [
+        [
+          "crane",
+          0.465
+        ],
+        [
+          "shopping_cart",
+          0.106
+        ],
+        [
+          "solar_dish",
+          0.0479
+        ],
+        [
+          "spiny_lobster",
+          0.0466
+        ],
+        [
+          "stretcher",
+          0.022
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20171215_150812.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.2511,
+      "top5_imagenet": [
+        [
+          "envelope",
+          0.2511
+        ],
+        [
+          "menu",
+          0.1584
+        ],
+        [
+          "printer",
+          0.043
+        ],
+        [
+          "washer",
+          0.0428
+        ],
+        [
+          "dishwasher",
+          0.0343
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "IMG20210629112306.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.1275,
+      "top5_imagenet": [
+        [
+          "recreational_vehicle",
+          0.1432
+        ],
+        [
+          "trailer_truck",
+          0.1275
+        ],
+        [
+          "minivan",
+          0.0926
+        ],
+        [
+          "Arabian_camel",
+          0.0625
+        ],
+        [
+          "tow_truck",
+          0.0604
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG_7314.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.2111,
+      "top5_imagenet": [
+        [
+          "cliff",
+          0.2111
+        ],
+        [
+          "pole",
+          0.1303
+        ],
+        [
+          "thatch",
+          0.0761
+        ],
+        [
+          "stone_wall",
+          0.0299
+        ],
+        [
+          "broom",
+          0.0299
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "20240322_100454.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.0279,
+      "top5_imagenet": [
+        [
+          "motor_scooter",
+          0.1875
+        ],
+        [
+          "minivan",
+          0.1687
+        ],
+        [
+          "crash_helmet",
+          0.0593
+        ],
+        [
+          "oxygen_mask",
+          0.0336
+        ],
+        [
+          "sports_car",
+          0.0279
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "01_amers_balisage_13.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.4474,
+      "top5_imagenet": [
+        [
+          "envelope",
+          0.4474
+        ],
+        [
+          "web_site",
+          0.4384
+        ],
+        [
+          "binder",
+          0.0159
+        ],
+        [
+          "comic_book",
+          0.0034
+        ],
+        [
+          "oscilloscope",
+          0.003
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCN2049.JPG",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "sliding_door",
+          0.1604
+        ],
+        [
+          "bannister",
+          0.0987
+        ],
+        [
+          "refrigerator",
+          0.0902
+        ],
+        [
+          "washbasin",
+          0.064
+        ],
+        [
+          "washer",
+          0.0577
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_1615.JPG",
+      "categorie": "faune",
+      "categorie_nom": "Faune",
+      "confiance": 0.0502,
+      "top5_imagenet": [
+        [
+          "ski",
+          0.1441
+        ],
+        [
+          "switch",
+          0.1105
+        ],
+        [
+          "traffic_light",
+          0.081
+        ],
+        [
+          "dogsled",
+          0.0502
+        ],
+        [
+          "alp",
+          0.0425
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "Logo OEC_png.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.337,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.337
+        ],
+        [
+          "television",
+          0.0504
+        ],
+        [
+          "pick",
+          0.0493
+        ],
+        [
+          "screen",
+          0.0289
+        ],
+        [
+          "cash_machine",
+          0.0171
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSC_3172.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.1854,
+      "top5_imagenet": [
+        [
+          "sandbar",
+          0.1854
+        ],
+        [
+          "plow",
+          0.1242
+        ],
+        [
+          "seashore",
+          0.1098
+        ],
+        [
+          "trailer_truck",
+          0.056
+        ],
+        [
+          "jeep",
+          0.0557
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "DSC03283.JPG",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.1516,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.4066
+        ],
+        [
+          "sandbar",
+          0.1516
+        ],
+        [
+          "recreational_vehicle",
+          0.0616
+        ],
+        [
+          "apiary",
+          0.0327
+        ],
+        [
+          "minibus",
+          0.0188
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "EED.jpg",
+      "categorie": "infrastructure",
+      "categorie_nom": "Infrastructure / Transport",
+      "confiance": 0.1034,
+      "top5_imagenet": [
+        [
+          "printer",
+          0.1219
+        ],
+        [
+          "photocopier",
+          0.1034
+        ],
+        [
+          "iron",
+          0.0667
+        ],
+        [
+          "mailbox",
+          0.0636
+        ],
+        [
+          "Polaroid_camera",
+          0.0354
+        ]
+      ],
+      "service": "Transports"
+    },
+    {
+      "fichier": "IMG_7727.JPG",
+      "categorie": "milieu_aquatique",
+      "categorie_nom": "Milieu aquatique",
+      "confiance": 0.0896,
+      "top5_imagenet": [
+        [
+          "dam",
+          0.0896
+        ],
+        [
+          "palace",
+          0.0789
+        ],
+        [
+          "container_ship",
+          0.0463
+        ],
+        [
+          "bell_cote",
+          0.0301
+        ],
+        [
+          "monastery",
+          0.0164
+        ]
+      ],
+      "service": "Delegation de bassin"
+    },
+    {
+      "fichier": "DC_0071.jpg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.0109,
+      "top5_imagenet": [
+        [
+          "sliding_door",
+          0.8134
+        ],
+        [
+          "shoji",
+          0.0507
+        ],
+        [
+          "monitor",
+          0.0109
+        ],
+        [
+          "television",
+          0.0073
+        ],
+        [
+          "screen",
+          0.0054
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "DSCF4378.JPG",
+      "categorie": "batiment",
+      "categorie_nom": "Batiment / Construction",
+      "confiance": 0.5897,
+      "top5_imagenet": [
+        [
+          "prison",
+          0.5897
+        ],
+        [
+          "patio",
+          0.0866
+        ],
+        [
+          "forklift",
+          0.0643
+        ],
+        [
+          "mobile_home",
+          0.0154
+        ],
+        [
+          "pier",
+          0.0136
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "carte-20250605-Centrales photovoltaïques au sol.jpeg",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.3912,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.3912
+        ],
+        [
+          "envelope",
+          0.1355
+        ],
+        [
+          "binder",
+          0.0413
+        ],
+        [
+          "paper_towel",
+          0.0399
+        ],
+        [
+          "menu",
+          0.0365
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "grandecarte.JPG",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.8122,
+      "top5_imagenet": [
+        [
+          "envelope",
+          0.8122
+        ],
+        [
+          "binder",
+          0.0118
+        ],
+        [
+          "quilt",
+          0.0116
+        ],
+        [
+          "handkerchief",
+          0.0107
+        ],
+        [
+          "rapeseed",
+          0.0099
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "IMG_20170209_093714.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "mobile_home",
+          0.2278
+        ],
+        [
+          "barrow",
+          0.1199
+        ],
+        [
+          "rain_barrel",
+          0.0475
+        ],
+        [
+          "plastic_bag",
+          0.029
+        ],
+        [
+          "moving_van",
+          0.0188
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "Carte_foret_protection.png",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.4869,
+      "top5_imagenet": [
+        [
+          "web_site",
+          0.4869
+        ],
+        [
+          "gown",
+          0.0347
+        ],
+        [
+          "dough",
+          0.0283
+        ],
+        [
+          "Sealyham_terrier",
+          0.0225
+        ],
+        [
+          "hoopskirt",
+          0.018
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "P1030428.JPG",
+      "categorie": "document",
+      "categorie_nom": "Document / Carte",
+      "confiance": 0.1456,
+      "top5_imagenet": [
+        [
+          "book_jacket",
+          0.1456
+        ],
+        [
+          "envelope",
+          0.0734
+        ],
+        [
+          "menu",
+          0.0585
+        ],
+        [
+          "packet",
+          0.0479
+        ],
+        [
+          "pill_bottle",
+          0.0332
+        ]
+      ],
+      "service": "SCIL"
+    },
+    {
+      "fichier": "20230919_104305.jpg",
+      "categorie": "littoral",
+      "categorie_nom": "Littoral",
+      "confiance": 0.0649,
+      "top5_imagenet": [
+        [
+          "reel",
+          0.356
+        ],
+        [
+          "sandbar",
+          0.0649
+        ],
+        [
+          "coho",
+          0.037
+        ],
+        [
+          "Dutch_oven",
+          0.0364
+        ],
+        [
+          "stethoscope",
+          0.0309
+        ]
+      ],
+      "service": "Amenagement"
+    },
+    {
+      "fichier": "IMG20250415105213.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.679,
+      "top5_imagenet": [
+        [
+          "volcano",
+          0.679
+        ],
+        [
+          "valley",
+          0.062
+        ],
+        [
+          "sandbar",
+          0.0282
+        ],
+        [
+          "cliff",
+          0.0132
+        ],
+        [
+          "jeep",
+          0.0105
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "DSC06398.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.977,
+      "top5_imagenet": [
+        [
+          "suspension_bridge",
+          0.977
+        ],
+        [
+          "promontory",
+          0.0046
+        ],
+        [
+          "cliff",
+          0.0042
+        ],
+        [
+          "steel_arch_bridge",
+          0.0028
+        ],
+        [
+          "valley",
+          0.0021
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "20240612_111605.jpg",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.1066,
+      "top5_imagenet": [
+        [
+          "stone_wall",
+          0.1066
+        ],
+        [
+          "megalith",
+          0.1036
+        ],
+        [
+          "nail",
+          0.0938
+        ],
+        [
+          "worm_fence",
+          0.0301
+        ],
+        [
+          "rhinoceros_beetle",
+          0.0253
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_20150928_142536.jpg",
+      "categorie": "paysage",
+      "categorie_nom": "Paysage",
+      "confiance": 0.0,
+      "top5_imagenet": [
+        [
+          "espresso",
+          0.2577
+        ],
+        [
+          "espresso_maker",
+          0.147
+        ],
+        [
+          "stove",
+          0.0818
+        ],
+        [
+          "caldron",
+          0.0395
+        ],
+        [
+          "projector",
+          0.0377
+        ]
+      ],
+      "service": "Biodiversite"
+    },
+    {
+      "fichier": "IMG_3286.JPG",
+      "categorie": "montagne",
+      "categorie_nom": "Montagne",
+      "confiance": 0.737,
+      "top5_imagenet": [
+        [
+          "valley",
+          0.737
+        ],
+        [
+          "promontory",
+          0.0691
+        ],
+        [
+          "cliff",
+          0.017
+        ],
+        [
+          "seashore",
+          0.0108
+        ],
+        [
+          "volcano",
+          0.0085
+        ]
+      ],
+      "service": "Biodiversite"
+    }
+  ]
+}

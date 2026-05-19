@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-14T08:32:10.211418",
+  "analysees": 925,
+  "floues": [
+    {
+      "fichier": "WhatsApp Image 2025-09-23 at 15.56.06 (16).jpeg",
+      "laplacien": 5.3,
+      "sobel": 117.23,
+      "fft": -69.53,
+      "dimensions": "1086x1448",
+      "floue": true
+    },
+    {
+      "fichier": "DC_0111.jpg",
+      "laplacien": 5.54,
+      "sobel": 38.95,
+      "fft": -48.49,
+      "dimensions": "768x768",
+      "floue": true
+    },
+    {
+      "fichier": "070427_090009.JPG",
+      "laplacien": 7.42,
+      "sobel": 41.26,
+      "fft": -47.29,
+      "dimensions": "800x600",
+      "floue": true
+    },
+    {
+      "fichier": "cruzzini \u00e9t\u00e9 2017 14.JPG",
+      "laplacien": 24.46,
+      "sobel": 117.9,
+      "fft": -45.57,
+      "dimensions": "1200x795",
+      "floue": true
+    },
+    {
+      "fichier": "B20-1544.jpg",
+      "laplacien": 42.16,
+      "sobel": 190.17,
+      "fft": -36.83,
+      "dimensions": "3215x2130",
+      "floue": true
+    }
+  ],
+  "total_floues": 5
+}
