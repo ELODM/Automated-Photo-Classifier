@@ -4,9 +4,7 @@
 **Formation :** Licence 3 Informatique — Université de Corse
 **Lieu du stage :** DREAL Corse (Direction Régionale de l'Environnement, de l'Aménagement et du Logement) — Ajaccio
 **Service :** ULI/SCIL
-**Tuteur entreprise :** Pierre-Ange Martos (Chef ULI/SCIL)
-**Tuteur pédagogique :** Florian Guéniot (UMR CNRS 6240 LISA)
-**Période :** Avril 2026
+
 
 ---
 
